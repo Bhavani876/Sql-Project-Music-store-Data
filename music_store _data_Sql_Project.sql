@@ -1,0 +1,1 @@
+create schema music_store_data;
